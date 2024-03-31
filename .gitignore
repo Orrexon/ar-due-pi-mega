@@ -1,3 +1,11 @@
+#hack to ignore binaries
+*
+!*.*
+!*/
+
+#vim stuffs
+*.swp
+
 # Prerequisites
 *.d
 
@@ -30,3 +38,4 @@
 *.exe
 *.out
 *.app
+*
